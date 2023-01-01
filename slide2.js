@@ -14,7 +14,7 @@ window.onload = function() {
     for (let r=0; r < rows; r++) {
         for (let c=0; c < columns; c++) {
 
-            //<img id="0-0" src="C:\Users\kent\Desktop\Slide Puzzle Game\1.png">
+            //<img id="0-0" src="Images\1.png">
             let tile = document.createElement("img");
             tile.id = r.toString() + "-" + c.toString();
             tile.src = imgOrder.shift() + ".png";
