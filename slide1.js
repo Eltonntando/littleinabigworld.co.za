@@ -8,7 +8,7 @@ var otherTile; //blank tile
 var turns = 0;
 
 // var imgOrder = ["1", "2", "3", "4", "5", "6", "7", "8", "9"];
-var imgOrder = ["4", "9", "3", "5", "1", "6", "7", "2", "8"];
+var imgOrder = ["Images/4", "Images/9", "Images/3", "Images/5", "Images/1", "Images/6", "Images/7", "Images/2", "Images/8"];
 
 window.onload = function() {
     for (let r=0; r < rows; r++) {
@@ -17,7 +17,7 @@ window.onload = function() {
             //<img id="0-0" src="Images\1.gif">
             let tile = document.createElement("img");
             tile.id = r.toString() + "-" + c.toString();
-            tile.src = imgOrder.shift() + "Images/.gif";
+            tile.src = imgOrder.shift() + ".gif";
 
             //DRAG FUNCTIONALITY
             tile.addEventListener("dragstart", dragStart);  //click an image to drag
