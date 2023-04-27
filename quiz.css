@@ -12,7 +12,7 @@
 }
 body{
     background: white;
-    background-image: url(C:/Users/kent/Pictures/Little-Big-World%20Book%20project/LBW%20Story%20Book%20Cover%20back.png);
+    background-image: url(Images/LBW.png);
 }
 ::selection{
     color: none;
