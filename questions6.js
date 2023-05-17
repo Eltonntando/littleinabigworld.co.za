@@ -2,57 +2,112 @@
 let questions = [
     {
     numb: 1,
-    question: "What is the name of the story book you were reading?",
-    answer: "Little In A Big World",
+    question: "What is the name of the smart bear in this story?",
+    answer: "Berry the smart bear",
     options: [
-      "Big In A Little World",
-      "Small In A Big World",
-      "Little In A Big World",
-      "The Little Ones In A Big World"
+      "Bruno the smart bear",
+      "Brandon the smart bear",
+      "Berry the smart bear",
+      "Bradely the smart bear"
     ]
   },
     {
     numb: 2,
-    question: "How many stories does the story book have?",
-    answer: "7 Stories",
+    question: "What did Berry do after he woke up feeling hungry?",
+    answer: "He got up and sterted searching for food",
     options: [
-      "6 Stories",
-      "10 Stories",
-      "5 Stories",
-      "7 Stories"
+      "He went back to sleep crying",
+      "He called out for his mother for food",
+      "He got up and just spent the morning rolling on the grasses",
+      "He got up and sterted searching for food"
     ]
   },
     {
     numb: 3,
-    question: "What is the name of the boy who was a soccer star?",
-    answer: "Simo",
+    question: "What is the sound Berry heard when serching around?",
+    answer: "The buzzing sound of bees",
     options: [
-      "Simo",
-      "Vuyo",
-      "Thabo",
-      "Messi"
+      "Sound of water at the river",
+      "Sound of people talking",
+      "The buzzing sound of bees",
+      "Sound of dogs barking"
     ]
   },
     {
     numb: 4,
-    question: "With howmany goals did Simo's team win the game by?",
-    answer: "4-0",
+    question: "How did he find the buzzing bees?",
+    answer: "He followed the direction of the buzzing sound",
     options: [
-      "4-2",
-      "5-1",
-      "6-0",
-      "4-0"
+      "He followed the direction of the buzzing sound",
+      "He just moved around untill he found them",
+      "He was just lucky and found them",
+      "The bees found him instead"
     ]
   },
     {
     numb: 5,
-    question: "What is the colour of the Jersey Simo's team was wearing?",
-    answer: "Blue",
+    question: "What do bees make in their hives?",
+    answer: "They make honey",
     options: [
-      "Yellow",
-      "Blue",
-      "Orange",
-      "Red"
+      "They make slime",
+      "They make sap",
+      "They make sugar",
+      "They make honey"
+    ]
+  },
+    {
+    numb: 6,
+    question: "What do we call a group of bees livivng together?",
+    answer: "A colony",
+    options: [
+      "A heard",
+      "A crew",
+      "A colony",
+      "A community"
+    ]
+  },
+    {
+    numb: 7,
+    question: "The bees of a colony?",
+    answer: "Queen bee, Drone bees, and Worker bees",
+    options: [
+      "King bee, Drone bees, and Worker bees",
+      "Queen bee, Drone bees, and Worker bees",
+      "Queen bee, Fly bees, and Busy bees",
+      "King bee, Fly bees, and Busy bees"
+    ]
+  },
+    {
+    numb: 8,
+    question: "The honey was high up, how did berry get it?",
+    answer: "He used a branch with leaves to reach it",
+    options: [
+      "He waited untill the honey started driping down to his mouth",
+      "He climbed up to the tree",
+      "He used his arm to reach it",
+      "He used a branch with leaves to reach it"
+    ]
+  },
+    {
+    numb: 9,
+    question: "Why did berry want the honey so bad?",
+    answer: "He was hungry and honey is very delicious with lots of nutrients",
+    options: [
+      "He was bored and wanted to play with the bees",
+      "He was hungry and honey is very delicious with lots of nutrients",
+      "He just wanted to see what will happen",
+      "He was curious"
+    ]
+  },
+    {
+    numb: 10,
+    question: "What do we learn from Berry today?",
+    answer: "We can use what we have to get what we need",
+    options: [
+      "We should be lazy to think",
+      "We should cry for help all the time",
+      "We can use what we have to get what we need",
+      "We can not get what we need"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
