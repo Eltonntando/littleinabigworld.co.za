@@ -2,57 +2,112 @@
 let questions = [
     {
     numb: 1,
-    question: "What is the name of the story book you were reading?",
-    answer: "Little In A Big World",
+    question: "What is the name of the young girl on this story?",
+    answer: "Buhle",
     options: [
-      "Big In A Little World",
-      "Small In A Big World",
-      "Little In A Big World",
-      "The Little Ones In A Big World"
+      "Marcia",
+      "Pretty",
+      "Thando",
+      "Buhle"
     ]
   },
     {
     numb: 2,
-    question: "How many stories does the story book have?",
-    answer: "7 Stories",
+    question: "What is the name of the sport did Buhle love?",
+    answer: "Net-ball",
     options: [
-      "6 Stories",
-      "10 Stories",
-      "5 Stories",
-      "7 Stories"
+      "Soccer",
+      "Net-ball",
+      "Cricket",
+      "Tennis"
     ]
   },
     {
     numb: 3,
-    question: "What is the name of the boy who was a soccer star?",
-    answer: "Simo",
+    question: "When did Buhle go to the nearby Net-ball court?",
+    answer: "Every practice and every game",
     options: [
-      "Simo",
-      "Vuyo",
-      "Thabo",
-      "Messi"
+      "Every Monday",
+      "Every Sunday",
+      "Every practice and every game",
+      "Everyday"
     ]
   },
     {
     numb: 4,
-    question: "With howmany goals did Simo's team win the game by?",
-    answer: "4-0",
+    question: "What did the coach notice about Buhle?",
+    answer: "She loved the sport and knew the rules like a referee",
     options: [
-      "4-2",
-      "5-1",
-      "6-0",
-      "4-0"
+      "She did not want anything to do with the sport",
+      "She hated the sport",
+      "She enjoyed watching the sport",
+      "She loved the sport and knew the rules like a referee"
     ]
   },
     {
     numb: 5,
-    question: "What is the colour of the Jersey Simo's team was wearing?",
-    answer: "Blue",
+    question: "What did the coach ask Buhle?",
+    answer: "She asked her to come be their referee",
     options: [
-      "Yellow",
-      "Blue",
-      "Orange",
-      "Red"
+      "She told her to go home",
+      "She asked her to come be their referee",
+      "She asked why does Buhle keep coming to the court",
+      "She asked nothing"
+    ]
+  },
+    {
+    numb: 6,
+    question: "What did the coach give Buhle?",
+    answer: "She gave her a referee kit and a whistle",
+    options: [
+      "She gave her a card",
+      "She gave her a ball",
+      "She gave her a referee kit and a whistle",
+      "She gave her nothing"
+    ]
+  },
+    {
+    numb: 7,
+    question: "What did Buhle forget at home?",
+    answer: "The whistle",
+    options: [
+      "The whistle",
+      "The referee kit",
+      "She forgot to come to the game",
+      "She forgot her hat"
+    ]
+  },
+    {
+    numb: 8,
+    question: "How was Buhle at judging the game?",
+    answer: "Really great",
+    options: [
+      "Too bad",
+      "Really great at it",
+      "She did not know what she was doing",
+      "She massed up the game"
+    ]
+  },
+    {
+    numb: 9,
+    question: "How did the coach feel about Buhle after the game?",
+    answer: "She was very pleased",
+    options: [
+      "She was disapointed",
+      "She was angry at Buhle",
+      "She regreted giving Buhle a chance",
+      "She was very pleased"
+    ]
+  },
+    {
+    numb: 10,
+    question: "What lesson did Buhle learn?",
+    answer: "Make sure you have everything you will need everytime you are going to do something",
+    options: [
+      "She did not learn anything",
+      "Make sure you have everything you will need everytime you are going to do something",
+      "Do not care you have everything you will need everytime you are going to do something",
+      "Make sure you have nothing on you everytime you are going to do something"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
