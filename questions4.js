@@ -2,57 +2,112 @@
 let questions = [
     {
     numb: 1,
-    question: "What is the name of the story book you were reading?",
-    answer: "Little In A Big World",
+    question: "What is the name of the little girl in this story?",
+    answer: "Busi",
     options: [
-      "Big In A Little World",
-      "Small In A Big World",
-      "Little In A Big World",
-      "The Little Ones In A Big World"
+      "Buhle",
+      "Grace",
+      "Marcia",
+      "Busi"
     ]
   },
     {
     numb: 2,
-    question: "How many stories does the story book have?",
-    answer: "7 Stories",
+    question: "What did Busi want to become when she grows up?",
+    answer: "A fashion designer",
     options: [
-      "6 Stories",
-      "10 Stories",
-      "5 Stories",
-      "7 Stories"
+      "A doctor",
+      "A police officer",
+      "A fashion designer",
+      "A Nurse"
     ]
   },
     {
     numb: 3,
-    question: "What is the name of the boy who was a soccer star?",
-    answer: "Simo",
+    question: "What do fashion designers do?",
+    answer: "They design or make clothing and garmets",
     options: [
-      "Simo",
-      "Vuyo",
-      "Thabo",
-      "Messi"
+      "They treat sick people",
+      "They deal with criminals",
+      "They cook delicious food",
+      "They design or make clothing and garmets"
     ]
   },
     {
     numb: 4,
-    question: "With howmany goals did Simo's team win the game by?",
-    answer: "4-0",
+    question: "Why did Busi's siblings call her the fashion police?",
+    answer: "Because she always kept an eye on their style",
     options: [
-      "4-2",
-      "5-1",
-      "6-0",
-      "4-0"
+      "Because she always kept an eye on their style",
+      "Because she always told them about jail",
+      "Because she wanted to become a police officer",
+      "Because she always kept telling them about crime"
     ]
   },
     {
     numb: 5,
-    question: "What is the colour of the Jersey Simo's team was wearing?",
-    answer: "Blue",
+    question: "Did Busi's parents promote her dreams?",
+    answer: "Yes all the time",
     options: [
-      "Yellow",
-      "Blue",
-      "Orange",
-      "Red"
+      "No they ignored her",
+      "Yes all the time",
+      "They told her it was not good enough for her",
+      "They hated her dreams"
+    ]
+  },
+    {
+    numb: 6,
+    question: "Are dreams important in life when growing up?",
+    answer: "Yes they are",
+    options: [
+      "No they are not",
+      "They waste our time",
+      "Yes they are",
+      "No they are just fantasies"
+    ]
+  },
+    {
+    numb: 7,
+    question: "Why are dreams important",
+    answer: "Dreams motivate us to live a healthy, happy and a life of adventure",
+    options: [
+      "Dreams will mislead you",
+      "Dreams disturbs us from what is important now",
+      "Dreams waste our time",
+      "Dreams motivate us to live a healthy, happy and a life of adventure"
+    ]
+  },
+    {
+    numb: 8,
+    question: "What do you need to do to achieve your dreams and goals?",
+    answer: "You need to focus on your school work and also learn new things everyday",
+    options: [
+      "You need to focus on your school work and also learn new things everyday",
+      "You need to focus on watching lots of tv",
+      "You need to play a lot with your friends",
+      "You need to do bad things and not listen to your teachers"
+    ]
+  },
+    {
+    numb: 9,
+    question: "Do you think Busi has what it takes to be a fashion designer?",
+    answer: "Yes, because she loves fashion and knows how to design and makes clothes",
+    options: [
+      "No, because she does not love fashion and can not make any clothes",
+      "Yes, because she loves fashion and knows how to design and makes clothes",
+      "No, because she hates fashion",
+      "No, because she is bad at making fashionable clothes"
+    ]
+  },
+    {
+    numb: 10,
+    question: "Did Busi's dream come true?",
+    answer: "Yes it did come true!",
+    options: [
+      "No but she tried",
+      "No she was not good enough",
+      "No she failed",
+      "Yes it did come true!"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
