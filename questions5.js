@@ -2,57 +2,112 @@
 let questions = [
     {
     numb: 1,
-    question: "What is the name of the story book you were reading?",
-    answer: "Little In A Big World",
+    question: "What is the name of the little mouse?",
+    answer: "Mira",
     options: [
-      "Big In A Little World",
-      "Small In A Big World",
-      "Little In A Big World",
-      "The Little Ones In A Big World"
+      "Suzan",
+      "Pretty",
+      "Mira",
+      "Marcia"
     ]
   },
     {
     numb: 2,
-    question: "How many stories does the story book have?",
-    answer: "7 Stories",
+    question: "Who gave her the name Mira?",
+    answer: "Her grandmother",
     options: [
-      "6 Stories",
-      "10 Stories",
-      "5 Stories",
-      "7 Stories"
+      "Her grandmother",
+      "Her mother",
+      "Her father",
+      "Her grandfather"
     ]
   },
     {
     numb: 3,
-    question: "What is the name of the boy who was a soccer star?",
-    answer: "Simo",
+    question: "What did her parents buy her as a birthday present?",
+    answer: "A bicycle",
     options: [
-      "Simo",
-      "Vuyo",
-      "Thabo",
-      "Messi"
+      "A bicycle",
+      "Toy kitchen tools",
+      "A skateboard",
+      "A doll"
     ]
   },
     {
     numb: 4,
-    question: "With howmany goals did Simo's team win the game by?",
-    answer: "4-0",
+    question: "What did the bicycle come with?",
+    answer: "Safety wear",
     options: [
-      "4-2",
-      "5-1",
-      "6-0",
-      "4-0"
+      "A sun hat",
+      "Sun glasses",
+      "Boots",
+      "Safety wear"
     ]
   },
     {
     numb: 5,
-    question: "What is the colour of the Jersey Simo's team was wearing?",
-    answer: "Blue",
+    question: "What was the safety wear that came with the bicycle?",
+    answer: "A Helmet together with elbow and knee-pads",
     options: [
-      "Yellow",
-      "Blue",
-      "Orange",
-      "Red"
+      "A jumpsuit for riders",
+      "A Helmet together with elbow and knee-pads",
+      "A jersey",
+      "Boots and gloves"
+    ]
+  },
+    {
+    numb: 6,
+    question: "Did Mira use or wear the safetywear?",
+    answer: "No she did not",
+    options: [
+      "No she did not",
+      "Yes she did",
+      "Yes because knew it was important",
+      "Yes she listened to her parents"
+    ]
+  },
+    {
+    numb: 7,
+    question: "How did Mira fall off her bicycle?",
+    answer: "She tripped over a small rock on the road",
+    options: [
+      "She was trying dangerous stunts",
+      "She crashed to a wall",
+      "The bicycle went really fast and she lost control",
+      "She tripped over a small rock on the road"
+    ]
+  },
+    {
+    numb: 8,
+    question: "Was Mira going to be injured as much, if she was wearing her safety wear?",
+    answer: "No, the injuries would be less",
+    options: [
+      "Yes very bad",
+      "No the injuries would be less",
+      "Yes it does not matter if she was wearing safetywear or not",
+      "Yes because she fell to hard"
+    ]
+  },
+    {
+    numb: 9,
+    question: "Did she enjoy spending lots of time at the hospital?",
+    answer: "Not at all, she regreted not listening to her parents",
+    options: [
+      "She had a great time at the hospital",
+      "She was given free candy at the hospital",
+      "Yes toomuch",
+      "Not at all, she regreted not listening to her parents"
+    ]
+  },
+    {
+    numb: 10,
+    question: "What is the lesson that Mira learned on this story?",
+    answer: "We should always listen to our parents and play safe all the time",
+    options: [
+      "We should always doas we wish and do what we want",
+      "Safety makes playing less fun",
+      "We should always listen to our parents and play safe all the time",
+      "We should not listen to our parents and not play safe all the time"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
