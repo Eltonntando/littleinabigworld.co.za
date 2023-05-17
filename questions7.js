@@ -2,6 +2,39 @@
 let questions = [
     {
     numb: 1,
+    question: "What is the name of the girl in this story?",
+    answer: "Simphiwe",
+    options: [
+      "Busi",
+      "Mira",
+      "Marcia",
+      "Simphiwe"
+    ]
+  },
+    {
+    numb: 2,
+    question: "Why do we need to wash our hands after playing with dogs?",
+    answer: "To wash away germs and be healthy",
+    options: [
+      "Just for fun",
+      "To wash away germs and be healthy",
+      "Because parents say so",
+      "Just playing with water"
+    ]
+  },
+    {
+    numb: 3,
+    question: "What else do we need to use to make hands are germ free?",
+    answer: "Use hand wash soap",
+    options: [
+      "Use only water",
+      "Use chemicals with the water",
+      "Use nothing at all",
+      "Use hand wash soap"
+    ]
+  },
+    {
+    numb: 4,
     question: "What is the name of the story book you were reading?",
     answer: "Little In A Big World",
     options: [
@@ -12,7 +45,7 @@ let questions = [
     ]
   },
     {
-    numb: 2,
+    numb: 5,
     question: "How many stories does the story book have?",
     answer: "7 Stories",
     options: [
@@ -20,39 +53,6 @@ let questions = [
       "10 Stories",
       "5 Stories",
       "7 Stories"
-    ]
-  },
-    {
-    numb: 3,
-    question: "What is the name of the boy who was a soccer star?",
-    answer: "Simo",
-    options: [
-      "Simo",
-      "Vuyo",
-      "Thabo",
-      "Messi"
-    ]
-  },
-    {
-    numb: 4,
-    question: "With howmany goals did Simo's team win the game by?",
-    answer: "4-0",
-    options: [
-      "4-2",
-      "5-1",
-      "6-0",
-      "4-0"
-    ]
-  },
-    {
-    numb: 5,
-    question: "What is the colour of the Jersey Simo's team was wearing?",
-    answer: "Blue",
-    options: [
-      "Yellow",
-      "Blue",
-      "Orange",
-      "Red"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
