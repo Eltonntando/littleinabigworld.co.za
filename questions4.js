@@ -57,7 +57,7 @@ let questions = [
   },
     {
     numb: 6,
-    question: "Are dreams important in life when growing up?",
+    question: "Are dreams important in our lives when growing up?",
     answer: "Yes they are",
     options: [
       "No they are not",
@@ -68,7 +68,7 @@ let questions = [
   },
     {
     numb: 7,
-    question: "Why are dreams important",
+    question: "Why are dreams so important?",
     answer: "Dreams motivate us to live a healthy, happy and a life of adventure",
     options: [
       "Dreams will mislead you",
@@ -90,11 +90,11 @@ let questions = [
   },
     {
     numb: 9,
-    question: "Do you think Busi has what it takes to be a fashion designer?",
-    answer: "Yes, because she loves fashion and knows how to design and makes clothes",
+    question: "Do you think Busi has what it takes to become a fashion designer?",
+    answer: "Yes, because she loves fashion and knows how to design and make clothes",
     options: [
       "No, because she does not love fashion and can not make any clothes",
-      "Yes, because she loves fashion and knows how to design and makes clothes",
+      "Yes, because she loves fashion and knows how to design and make clothes",
       "No, because she hates fashion",
       "No, because she is bad at making fashionable clothes"
     ]
