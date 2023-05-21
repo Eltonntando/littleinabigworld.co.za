@@ -83,7 +83,7 @@ let questions = [
     answer: "No, the injuries would be less",
     options: [
       "Yes very bad",
-      "No the injuries would be less",
+      "No, the injuries would be less",
       "Yes it does not matter if she was wearing safetywear or not",
       "Yes because she fell to hard"
     ]
