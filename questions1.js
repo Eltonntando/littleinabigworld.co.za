@@ -68,7 +68,7 @@ let questions = [
   },
     {
     numb: 7,
-    question: "On what day was the match betwwen the two teams?",
+    question: "On what day was the match between the two teams?",
     answer: "Saturday",
     options: [
       "On a Sunday",
@@ -123,7 +123,7 @@ let questions = [
   },
     {
     numb: 12,
-    question: "What did Simo's father tell Simo after seing he was afraid?",
+    question: "What did Simo's father tell his boy after seing he was afraid?",
     answer: "Do not be afraid, do your best son!",
     options: [
       "You disapoint me son!",
@@ -157,9 +157,9 @@ let questions = [
     {
     numb: 15,
     question: "What lesson did Simo learn",
-    answer: "He learned that to win you must not be scared, but calm down and be your best!",
+    answer: "He learned that to win you must not be scared, but calm and your best!",
     options: [
-      "He learned that to win you must not be scared, but calm down and be your best!",
+      "He learned that to win you must not be scared, but calm and your best!",
       "He learned that you can be scared, and continue with being bad at what you do",
       "He learned that you must run home when you are feeling scared",
       "He learned that to win you must be scared, not calm down and not be your best!"
