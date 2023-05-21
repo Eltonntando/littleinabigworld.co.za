@@ -13,7 +13,7 @@ let questions = [
   },
     {
     numb: 2,
-    question: "What is the name of the sport did Buhle love?",
+    question: "What is the name of the sport that Buhle loved?",
     answer: "Net-ball",
     options: [
       "Soccer",
@@ -24,12 +24,12 @@ let questions = [
   },
     {
     numb: 3,
-    question: "When did Buhle go to the nearby Net-ball court?",
-    answer: "Every practice and every game",
+    question: "When would Buhle go to the nearby Net-ball court?",
+    answer: "Every practice and at every game",
     options: [
       "Every Monday",
       "Every Sunday",
-      "Every practice and every game",
+      "Every practice and at every game",
       "Everyday"
     ]
   },
@@ -46,7 +46,7 @@ let questions = [
   },
     {
     numb: 5,
-    question: "What did the coach ask Buhle?",
+    question: "What did the coach ask from Buhle?",
     answer: "She asked her to come be their referee",
     options: [
       "She told her to go home",
@@ -80,7 +80,7 @@ let questions = [
     {
     numb: 8,
     question: "How was Buhle at judging the game?",
-    answer: "Really great",
+    answer: "Really great at it",
     options: [
       "Too bad",
       "Really great at it",
