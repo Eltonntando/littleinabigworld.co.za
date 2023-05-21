@@ -24,7 +24,7 @@ let questions = [
   },
     {
     numb: 3,
-    question: "Did Wandile's mother know about his son's love for exploring the sky?",
+    question: "Did Wandile's mother know about his son's love for exploring the stars?",
     answer: "Yes she did",
     options: [
       "Yes she did",
@@ -35,7 +35,7 @@ let questions = [
   },
     {
     numb: 4,
-    question: "What did Wandile's mother by him as a suprise?",
+    question: "What did Wandile's mother buy her son as a suprise?",
     answer: "A Telescope",
     options: [
       "A digital camera",
@@ -46,18 +46,18 @@ let questions = [
   },
     {
     numb: 5,
-    question: "A Telescope is a tool for?",
-    answer: "For seing faraway objects",
+    question: "A Telescope is a tool used to?",
+    answer: "Used to see faraway objects",
     options: [
-      "For seing nearby objects",
-      "For seing faraway objects",
-      "For seing new objects",
-      "For seing invisible objects"
+      "Used to see nearby objects",
+      "Used to see faraway objects",
+      "Used to see new objects",
+      "Used to see invisible objects"
     ]
   },
     {
     numb: 6,
-    question: "How many planets does our solar system has?",
+    question: "How many planets does our solar system have?",
     answer: "9 planets",
     options: [
       "12 planets",
@@ -90,7 +90,7 @@ let questions = [
   },
     {
     numb: 9,
-    question: "Planet Earth our home it the...?",
+    question: "Planet Earth our home is the...?",
     answer: "Is the 3rd plannet on the solar system orbit",
     options: [
       "Is the 5th plannet on the solar system orbit",
