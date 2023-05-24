@@ -24,7 +24,7 @@ let questions = [
   },
     {
     numb: 3,
-    question: "What else do we need to use to make hands are germ free?",
+    question: "What else do we need to use to make sure hands are germ free?",
     answer: "Use hand wash soap",
     options: [
       "Use only water",
