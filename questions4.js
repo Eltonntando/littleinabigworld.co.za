@@ -25,12 +25,12 @@ let questions = [
     {
     numb: 3,
     question: "What do fashion designers do?",
-    answer: "They design or make clothing and garmets",
+    answer: "They design or make clothes and garmets",
     options: [
       "They treat sick people",
       "They deal with criminals",
       "They cook delicious food",
-      "They design or make clothing and garmets"
+      "They design or make clothes and garmets"
     ]
   },
     {
@@ -69,12 +69,12 @@ let questions = [
     {
     numb: 7,
     question: "Why are dreams so important?",
-    answer: "Dreams motivate us to live a healthy, happy and a life of adventure",
+    answer: "Dreams motivate us to live healthy, happy and a life of adventure",
     options: [
       "Dreams will mislead you",
       "Dreams disturbs us from what is important now",
       "Dreams waste our time",
-      "Dreams motivate us to live a healthy, happy and a life of adventure"
+      "Dreams motivate us to live healthy, happy and a life of adventure"
     ]
   },
     {
@@ -82,10 +82,10 @@ let questions = [
     question: "What do you need to do to achieve your dreams and goals?",
     answer: "You need to focus on your school work and also learn new things everyday",
     options: [
-      "You need to focus on your school work and also learn new things everyday",
       "You need to focus on watching lots of tv",
+      "You need to focus on your school work and also learn new things everyday",
       "You need to play a lot with your friends",
-      "You need to do bad things and not listen to your teachers"
+      "You need to focus on your friends and play everyday"
     ]
   },
     {
@@ -95,7 +95,7 @@ let questions = [
     options: [
       "No, because she does not love fashion and can not make any clothes",
       "Yes, because she loves fashion and knows how to design and make clothes",
-      "No, because she hates fashion",
+      "Yes, because she hates fashion",
       "No, because she is bad at making fashionable clothes"
     ]
   },
@@ -105,8 +105,8 @@ let questions = [
     answer: "Yes it did come true!",
     options: [
       "No but she tried",
-      "No she was not good enough",
-      "No she failed",
+      "She was not good enough",
+      "She failed",
       "Yes it did come true!"
     ]
   },
