@@ -71,9 +71,9 @@ let questions = [
     question: "What did Buhle forget at home?",
     answer: "The whistle",
     options: [
-      "The whistle",
-      "The referee kit",
       "She forgot to come to the game",
+      "The referee kit",
+      "The whistle",
       "She forgot her hat"
     ]
   },
@@ -101,7 +101,7 @@ let questions = [
   },
     {
     numb: 10,
-    question: "What lesson did Buhle learn?",
+    question: "What lesson did Buhle learn that day?",
     answer: "Make sure you have everything you will need everytime you are going to do something",
     options: [
       "She did not learn anything",
