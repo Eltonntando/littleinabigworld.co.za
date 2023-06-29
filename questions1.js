@@ -46,7 +46,7 @@ let questions = [
   },
     {
     numb: 5,
-    question: "Where was the coach coming from when he saw Simo playing?",
+    question: "Where was the coach coming from, the time he saw Simo playing?",
     answer: "Coming from practice at the sports ground",
     options: [
       "Coming from practice at the sports ground",
@@ -57,7 +57,7 @@ let questions = [
   },
     {
     numb: 6,
-    question: "What did the coach do after seing Simo play outside?",
+    question: "What did the coach do after he saw Simo play outside?",
     answer: "He invited Simo to come join his team",
     options: [
       "He continued on his way home",
@@ -68,8 +68,8 @@ let questions = [
   },
     {
     numb: 7,
-    question: "On what day was the match between the two teams?",
-    answer: "Saturday",
+    question: "On which day was the match between the two teams?",
+    answer: "On a Saturday",
     options: [
       "On a Sunday",
       "On a Monday",
@@ -123,7 +123,7 @@ let questions = [
   },
     {
     numb: 12,
-    question: "What did Simo's father tell his boy after seing he was afraid?",
+    question: "What did his father tell him after noticing that he was afraid?",
     answer: "Do not be afraid, do your best son!",
     options: [
       "You disapoint me son!",
@@ -135,12 +135,12 @@ let questions = [
     {
     numb: 13,
     question: "How did Simo feel after his father encouraged him?",
-    answer: "He felt good and wanted to be better",
+    answer: "He felt good and played better",
     options: [
       "He did not listed and continued playing",
       "He felt sad and wanted to go home",
       "He felt bad and wanted to cry",
-      "He felt good and wanted to be better"
+      "He felt good and played better"
     ]
   },
     {
@@ -157,9 +157,9 @@ let questions = [
     {
     numb: 15,
     question: "What lesson did Simo learn",
-    answer: "He learned that to win you must not be scared, but calm and your best!",
+    answer: "He learned that to win you must not be scared, but calm and do your best!",
     options: [
-      "He learned that to win you must not be scared, but calm and your best!",
+      "He learned that to win you must not be scared, but calm and do your best!",
       "He learned that you can be scared, and continue with being bad at what you do",
       "He learned that you must run home when you are feeling scared",
       "He learned that to win you must be scared, not calm down and not be your best!"
