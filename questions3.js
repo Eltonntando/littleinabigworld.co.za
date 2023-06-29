@@ -27,8 +27,8 @@ let questions = [
     question: "Did Wandile's mother know about his son's love for exploring the stars?",
     answer: "Yes she did",
     options: [
-      "Yes she did",
       "No she did not know",
+      "Yes she did",
       "She did not care about it",
       "She ignored that"
     ]
@@ -47,17 +47,17 @@ let questions = [
     {
     numb: 5,
     question: "A Telescope is a tool used to?",
-    answer: "Used to see faraway objects",
+    answer: "Used to see faraway objects in the sky",
     options: [
       "Used to see nearby objects",
-      "Used to see faraway objects",
+      "Used to see faraway objects in the sky",
       "Used to see new objects",
       "Used to see invisible objects"
     ]
   },
     {
     numb: 6,
-    question: "How many planets does our solar system have?",
+    question: "How many planets are in our solar system?",
     answer: "9 planets",
     options: [
       "12 planets",
@@ -82,8 +82,8 @@ let questions = [
     question: "Which order of planets is correct for our solar system?",
     answer: "1.Mercury 2.Venus 3.Earth 4.Mars 5.Jupiter 6.Saturn 7.Uranus 8.Neptune 9.Pluto",
     options: [
-      "1.Mercury 2.Venus 3.Earth 4.Mars 5.Jupiter 6.Saturn 7.Uranus 8.Neptune 9.Pluto",
       "1.Earth 2.Mars 3.Jupiter 4.Saturn 5.Uranus 6.Neptune 7.Mercury 8.Venus 9.Pluto",
+      "1.Mercury 2.Venus 3.Earth 4.Mars 5.Jupiter 6.Saturn 7.Uranus 8.Neptune 9.Pluto",
       "1.Neptune 2.Pluto 3.Mercury 4.Venus 5.Earth 6.Mars 7.Jupiter 8.Saturn 9.Uranus",
       "1.Jupiter 2.Saturn 3.Uranus 4.Neptune 5.Pluto 6.Mercury 7.Venus 8.Earth 9.Mars"
     ]
