@@ -24,7 +24,7 @@ let questions = [
   },
     {
     numb: 3,
-    question: "What else do we need to use to make sure hands are germ free?",
+    question: "What else do we need to use to make sure our hands are germ free?",
     answer: "Use hand wash soap",
     options: [
       "Use only water",
@@ -46,7 +46,7 @@ let questions = [
   },
     {
     numb: 5,
-    question: "How many stories does the story book have?",
+    question: "How many stories are in this story book?",
     answer: "7 Stories",
     options: [
       "6 Stories",
