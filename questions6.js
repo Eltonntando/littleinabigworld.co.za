@@ -38,10 +38,10 @@ let questions = [
     question: "How did he find the buzzing bees?",
     answer: "He followed the direction of the buzzing sound",
     options: [
-      "He followed the direction of the buzzing sound",
+      "The bees found him instead",
       "He just moved around untill he found them",
       "He was just lucky and found them",
-      "The bees found him instead"
+      "He followed the direction of the buzzing sound"
     ]
   },
     {
@@ -68,7 +68,7 @@ let questions = [
   },
     {
     numb: 7,
-    question: "The bees of a colony?",
+    question: "The type of bees in a colony?",
     answer: "Queen bee, Drone bees, and Worker bees",
     options: [
       "King bee, Drone bees, and Worker bees",
@@ -91,17 +91,17 @@ let questions = [
     {
     numb: 9,
     question: "Why did berry want the honey so bad?",
-    answer: "He was hungry and honey is very delicious with lots of nutrients",
+    answer: "He was hungry and honey is very delicious with a lot of nutrients",
     options: [
       "He was bored and wanted to play with the bees",
-      "He was hungry and honey is very delicious with lots of nutrients",
+      "He was hungry and honey is very delicious with a lot of nutrients",
       "He just wanted to see what will happen",
       "He was curious"
     ]
   },
     {
     numb: 10,
-    question: "What do we learn from Berry today?",
+    question: "What do we learn from Berry's story?",
     answer: "We can use what we have to get what we need",
     options: [
       "We should be lazy to think",
