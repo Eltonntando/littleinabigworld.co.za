@@ -16,8 +16,8 @@ let questions = [
     question: "Who gave her the name Mira?",
     answer: "Her grandmother",
     options: [
-      "Her grandmother",
       "Her mother",
+      "Her grandmother",
       "Her father",
       "Her grandfather"
     ]
@@ -27,9 +27,9 @@ let questions = [
     question: "What did her parents buy her as a birthday present?",
     answer: "A bicycle",
     options: [
-      "A bicycle",
-      "Toy kitchen tools",
       "A skateboard",
+      "A telescope",
+      "A bicycle",
       "A doll"
     ]
   },
@@ -60,19 +60,19 @@ let questions = [
     question: "Did Mira use or wear the safetywear?",
     answer: "No she did not",
     options: [
-      "No she did not",
       "Yes she did",
       "Yes because knew it was important",
+      "No she did not",
       "Yes she listened to her parents"
     ]
   },
     {
     numb: 7,
-    question: "How did Mira fall off her bicycle?",
+    question: "Why did Mira fall off her bicycle?",
     answer: "She tripped over a small rock on the road",
     options: [
       "She was trying dangerous stunts",
-      "She crashed to a wall",
+      "She did not know how to ride a bicycle",
       "The bicycle went really fast and she lost control",
       "She tripped over a small rock on the road"
     ]
@@ -101,13 +101,13 @@ let questions = [
   },
     {
     numb: 10,
-    question: "What is the lesson that Mira learned on this story?",
+    question: "What is the lesson Mira learned on this story?",
     answer: "We should always listen to our parents and play safe all the time",
     options: [
-      "We should always doas we wish and do what we want",
+      "We should always do as we wish and do what we want",
       "Safety makes playing less fun",
-      "We should always listen to our parents and play safe all the time",
-      "We should not listen to our parents and not play safe all the time"
+      "We should not listen to our parents and not play safe all the time",
+      "We should always listen to our parents and play safe all the time"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
