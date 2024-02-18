@@ -218,14 +218,14 @@ section .option_list .option .icon{
     line-height: 24px;
 }
 .option_list .option .icon.tick{
-    color: #23903c;
-    border-color: #23903c;
+    color: green;
+    border-color: transparent;
     background: #d4edda;
 }
 .option_list .option .icon.cross{
-    color: #a42834;
+    color: red;
     background: #f8d7da;
-    border-color: #a42834;
+    border-color: transparent;
 }
 footer{
     height: 60px;
@@ -336,6 +336,11 @@ footer button.show{
 .buttons button.quit:hover{
     color: #fff;
     background: #007bff;
+}
+
+.social-items {
+    color: white;
+    background: red;
 }
 
 
