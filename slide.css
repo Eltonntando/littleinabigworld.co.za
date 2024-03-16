@@ -161,6 +161,7 @@ form{
     border: 2px solid red;
     border-radius: 10px;
     color: red;
+    background-color: white;
 }
 
 tr{
